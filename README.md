@@ -16,7 +16,7 @@ This app allow to Pick icon for board, Select favorites, Edit titles and descrip
 -   Express
     -   morgan
 -   React
-	-  React Redux
+	- React Redux
 	- Material UI
 	- CKEditor
 -   Node
@@ -28,7 +28,7 @@ This app allow to Pick icon for board, Select favorites, Edit titles and descrip
 
 ### Clone or Download
 ```
-$ git clone https://github.com/amazingandyyy/mern.git
+$ git clone https://github.com/amifunny/pro-manage.git
 $ npm i
 $ cd backend
 $ npm i
