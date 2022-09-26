@@ -56,10 +56,10 @@ $ node backend/bin/www
 
 ## Screenshots
 
-<img align="left" src="screenshot/signup.png" width="400px" height="350px" />
-<img src="screenshot/newboard.png" width="400px" height="350px" />
-<img align="left" src="screenshot/newtask.png" width="400px" height="350px" />
-<img src="screenshot/fullproject.png" width="400px" height="350px" />
+<img src="screenshot/signup.png" width="700px" height="350px" />
+<img src="screenshot/newboard.png" width="700px" height="350px" />
+<img src="screenshot/newtask.png" width="700px" height="350px" />
+<img src="screenshot/fullproject.png" width="700px" height="350px" />
 
 
 
