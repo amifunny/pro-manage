@@ -54,3 +54,18 @@ If build succeeds, you can run both frontend and backend together using -
 $ node backend/bin/www
 ```
 
+## Screenshots
+
+<img align="left" src="screenshot/signup.png" width="400px" height="350px" />
+<img src="screenshot/newboard.png" width="400px" height="350px" />
+<img align="left" src="screenshot/newtask.png" width="400px" height="350px" />
+<img src="screenshot/fullproject.png" width="400px" height="350px" />
+
+
+
+
+
+
+
+
+
