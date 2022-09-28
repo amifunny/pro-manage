@@ -14,7 +14,6 @@ This app allow to Pick icon for board, Select favorites, Edit titles and descrip
 -   MongoDB
 -   Mongoose
 -   Express
-    -   morgan
 -   React
 	- React Redux
 	- Material UI
